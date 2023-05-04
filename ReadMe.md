@@ -10,9 +10,9 @@
 ```
 npm install active-win
 ```
-그냥 데스크탑에서 뭐하는지 추적(active-win)
-추적한 정보를 index.html에 보내기
-시작프로그램 등록하기
-에러는 github issue
-파일로 저장, 불러오기(노드 이론을 알아야함)
-날짜별로 저장
+- 그냥 데스크탑에서 뭐하는지 추적(active-win)
+- 추적한 정보를 index.html에 보내기
+- 시작프로그램 등록하기
+- 에러는 github issue
+- 파일로 저장, 불러오기(노드 이론을 알아야함)
+- 날짜별로 저장

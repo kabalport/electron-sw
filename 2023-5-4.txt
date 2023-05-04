@@ -1,1 +1,1 @@
-{"Electron":180,"IntelliJ IDEA":805,"undefined":2,"네이버 웨일":1376}
+{"Electron":180,"IntelliJ IDEA":824,"undefined":2,"네이버 웨일":1376}
